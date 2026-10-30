@@ -9,7 +9,11 @@ datos.
 
 | Carpeta / archivo | ¿Qué contiene? |
 |---|---|
-| `notebooks/` | Los notebooks de cada semana, con ejercicios y explicaciones |
+| `notebooks/clases/` | Los notebooks de cada semana, con ejercicios y explicaciones |
+| `notebooks/talleres/` | Los talleres de cada corte |
+| `notebooks/parciales/` | Los parciales |
+| `notebooks/exposiciones/` | Los notebooks de las exposiciones en grupo |
+| `documentos/` | Enunciados, guiones y documentos del curso (PDF, Word, Excel) |
 | `data/raw/` | Los datos **originales**, tal como los recibí (sin tocar) |
 | `data/processed/` | Los datos ya **limpios**, listos para analizar |
 | `src/funciones.py` | Las funciones de Python que fui creando y reutilizando |
@@ -24,7 +28,7 @@ datos.
    ```bash
    pip install -r requirements.txt
    ```
-3. Abre los notebooks en `notebooks/` en el orden de las semanas y ¡listo!
+3. Abre los notebooks en `notebooks/clases/` en el orden de las semanas y ¡listo!
 
 ##  Sobre este proyecto
 

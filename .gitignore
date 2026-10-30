@@ -1,0 +1,8 @@
+# Archivos temporales de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+
+# Archivos temporales de Office y Windows
+~$*
+desktop.ini
+Thumbs.db
